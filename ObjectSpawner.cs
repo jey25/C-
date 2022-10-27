@@ -8,7 +8,10 @@ public class ObjectSpawner : MonoBehaviour
     private GameObject boxPrefab;
     private void Awake()
     {
-        Instantiate(boxPrefab);
-        Instantiate(boxPrefab);
+        // Instantiate(boxPrefab, new Vector3(3, 3, 0), Quaternion.identity);
+        // Instantiate(boxPrefab, new Vector3(-1, -2, 0), Quaternion.identity);
+
+        Quaternion rotation = Quaternion.Euler(0, 0, 45);
+        Instantiate(boxPrefab, new Vector3(2, 1, 0), rotation);
     }
 }
