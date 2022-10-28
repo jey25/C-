@@ -177,7 +177,7 @@ public class goldmetal : MonoBehaviour
         // MyPrint(5);
 
 
-        //4. 키워드
+        //5. 키워드
         // int float string bool new List
 
 
