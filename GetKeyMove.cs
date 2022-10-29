@@ -41,6 +41,31 @@ public class LifeCycle : MonoBehaviour
         //     Debug.Log("슈퍼 미사일 발사!");
         // }
 
+        // if (Input.GetButtonDown("Jump"))
+        // {
+        //     Debug.Log("점프");
+        // }
+
+        // if (Input.GetButton("Jump"))
+        // {
+        //     Debug.Log("점프 모으는 중");
+        // }
+
+        // if (Input.GetButtonUp("Jump"))
+        // {
+        //     Debug.Log("슈퍼 점프!!");
+        // }
+
+        // if (Input.GetButton("Horizontal"))
+        // {
+        //     Debug.Log("횡 이동" + Input.GetAxisRaw("Horizontal"));
+        // }
+
+        // if (Input.GetButton("Vertical"))
+        // {
+        //     Debug.Log("종 이동" + Input.GetAxisRaw("Vertical"));
+        // }
+
 
 
 
