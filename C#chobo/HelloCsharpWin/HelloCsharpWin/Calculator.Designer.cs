@@ -1,4 +1,4 @@
-﻿namespace HelloCsharpWin
+﻿namespace HelloCSharpWin
 {
     partial class Calculator
     {
@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(335, 241);
+            this.ClientSize = new System.Drawing.Size(322, 275);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

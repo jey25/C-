@@ -1,4 +1,4 @@
-namespace HelloCsharpWin
+namespace HelloCSharpWin
 {
     internal static class Program
     {
